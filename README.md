@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm **Beril Fikri**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learn+to+become+a+Full+Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <p>
@@ -13,10 +13,10 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  💻 Computer Engineering Student                              ║
-║  ⚙️  Passionate about IoT & System Integration                ║
-║  🚀 Building the bridge between software and hardware         ║
-╚═══════════════════════════════════════════════════════════════╝
+║  💻 Computer Engineering Student                             ║
+║  ⚙️ Passionate about IoT & System Integration                ║
+║  🚀 Building the bridge between software and hardware        ║
+╚══════════════════════════════════════════════════════════════ ╝
 ```
 
 </div>
@@ -48,18 +48,6 @@ motto: "Code, Create, and never stop learning"
 - 💡 Exploring **Cloud Integration** for embedded systems
 
 <br>
-
-### ⚡ Quick Facts
-
-```javascript
-const beril = {
-    code: ["Python", "PHP", "C/C++", "JS"],
-    tools: ["Laravel", "Flask", "Arduino IDE"],
-    architecture: ["MVC", "REST API", "IoT"],
-    currentProject: "Smart Parking System",
-    funFact: "I love turning algorithms into real systems!"
-};
-```
 
 ## 🛠️ Tech Stack & Tools
 
