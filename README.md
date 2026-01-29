@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Beril Fikri  
+# Beril Fikri  
 💻 Still learning to become a Full-Stack & Embedded Developer. | ⚙️ Passionate about Internet of Things
 
 ---
@@ -57,8 +57,8 @@ Simulation of a vending machine using C language with menu control, balance mana
 ---
 
 ### 📊 GitHub Insights
-![Beril’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rilfikri15&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilfikri15&layout=compact&theme=tokyonight)
+![Beril’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rilfikri15&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rilfikri15&layout=compact&theme=tokyonight)
 
 ---
 
