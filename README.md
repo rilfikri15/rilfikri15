@@ -25,10 +25,6 @@
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td width="55%">
-
 ### 👨‍💻 Beril Fikri
 
 ```yaml
@@ -50,11 +46,6 @@ motto: "Code, Create, and never stop learning"
 - 📚 Learning **Advanced Laravel** & **Python Programming**
 - 🤝 Open to **IoT collaboration** projects
 - 💡 Exploring **Cloud Integration** for embedded systems
-
-</td>
-<td width="45%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%">
 
 <br>
 
@@ -110,82 +101,6 @@ const beril = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Smart Parking System
-![IoT](https://img.shields.io/badge/IoT-00C7B7?style=flat-square&logo=google-cloud&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Mesh-network parking system** with real-time monitoring
-
-- ESP32 with ultrasonic sensors
-- Flask backend API
-- Streamlit visualization dashboard
-- Real-time data synchronization
-
-🔗 *IoT • Data Visualization • Embedded*
-
-</td>
-<td width="50%">
-
-### 🌐 PHPWeb MVC
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=flat-square)
-
-**Modular PHP MVC** web application
-
-- Clean architecture design
-- PDO database interaction
-- Dynamic routing system
-- Lightweight & efficient
-
-🔗 *Backend • Architecture • PHP*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Vending Machine Simulator
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Terminal-based vending machine** in C
-
-- Menu control system
-- Balance management
-- Product selection logic
-- Procedural programming
-
-🔗 *Logic • Algorithms • C Programming*
-
-</td>
-<td width="50%">
-
-### 🔮 Coming Soon...
-![Developing](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
-
-**New exciting project** in the works!
-
-- More IoT integrations
-- Advanced web systems
-- Hardware + Software fusion
-
-🔗 *Stay tuned!*
-
-</td>
-</tr>
-</table>
 
 </div>
 
