@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalankan setiap hari jam 00:00 UTC
-  workflow_dispatch: # Bisa dijalankan manual juga
+    - cron: "0 0 * * *" # otomatis setiap hari 00:00 UTC (07:00 WIB)
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,43 +12,22 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: rilfikri15
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          theme: tokyo-night
-          hide_border: true
-          custom_title: "Beril's GitHub Stats"
-          output: output/github-stats.svg
+      - name: Create output folder
+        run: mkdir -p output
 
-      - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: rilfikri15
-          layout: compact
-          theme: tokyo-night
-          hide_border: true
-          output: output/top-langs.svg
+      - name: Download GitHub Stats
+        run: |
+          curl -o output/github-stats.svg "https://github-readme-stats.vercel.app/api?username=rilfikri15&show_icons=true&theme=tokyonight&count_private=true"
+          curl -o output/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=rilfikri15&layout=compact&theme=tokyonight"
+          curl -o output/trophies.svg "https://github-profile-trophy.vercel.app/?username=rilfikri15&theme=tokyonight&no-frame=true&margin-w=15"
 
-      - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: rilfikri15
-          theme: onedark
-          no-frame: true
-          output: output/trophies.svg
-
-      - name: Commit & Push
+      - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "Updated GitHub stats [skip ci]" || echo "No changes"
+          git commit -m "Updated GitHub stats [skip ci]" || echo "No changes to commit"
           git push
-
