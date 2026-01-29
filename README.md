@@ -1,11 +1,16 @@
-# Beril Fikri  
-💻 Still learning to become a Full-Stack & Embedded Developer. | ⚙️ Passionate about Internet of Things
+<div align="center">
+
+# 👋 Hi, I'm **Beril Fikri**  
+💻 Still learning to become a **Full-Stack & Embedded Developer**  
+⚙️ Passionate about **Internet of Things & System Integration**
+
+</div>
 
 ---
 
 ### 🧭 About Me
 Hi there! I'm **Beril Fikri**, a Computer Engineering student who loves combining **software and hardware** to create meaningful solutions.  
-I enjoy developing web applications, experimenting with microcontrollers, and translating algorithms into real systems.  
+I enjoy developing web applications, experimenting with microcontrollers, and turning algorithms into real systems.  
 
 ---
 
@@ -40,7 +45,7 @@ I enjoy developing web applications, experimenting with microcontrollers, and tr
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 #### 🧠 Smart Parking System (ESP32 + Flask + Streamlit)
 A mesh-network-based parking system using ESP32 and ultrasonic sensors, integrated with Flask backend and visualized via Streamlit dashboard.  
@@ -56,9 +61,13 @@ Simulation of a vending machine using C language with menu control, balance mana
 
 ---
 
-### 📊 GitHub Insights
-![Beril’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rilfikri15&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rilfikri15&layout=compact&theme=tokyonight)
+### 📊 GitHub Insights  
+*(Updated automatically every day with GitHub Actions)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rilfikri15/rilfikri15/output/github-stats.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/rilfikri15/rilfikri15/output/top-langs.svg" width="49%">
+</p>
 
 ---
 
@@ -79,6 +88,7 @@ Feel free to reach out or collaborate on projects — I enjoy learning through b
 
 ---
 
-### 🏆 Achievements & Highlights
-![Trophy](https://github-profile-trophy.vercel.app/?username=rilfikri15&theme=tokyonight&no-frame=true&margin-w=15)
-![GitHub Streak](https://streak-stats.demolab.com?user=rilfikri15&theme=tokyonight)
+### 🏆 Achievements & Highlights  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rilfikri15/rilfikri15/output/trophies.svg" width="80%">
+</p>
