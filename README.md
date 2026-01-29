@@ -62,7 +62,6 @@ Simulation of a vending machine using C language with menu control, balance mana
 ---
 
 ### 📊 GitHub Insights  
-*(Updated automatically every day with GitHub Actions)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rilfikri15/rilfikri15/output/github-stats.svg" width="49%">
