@@ -124,33 +124,6 @@ const beril = {
 
 ---
 
-## 💡 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Beril's<br/>Learning Path))
-    Web Development
-      Laravel Advanced
-      API Development
-    IoT & Embedded
-      ESP32 Mesh Network
-      Sensor Integration
-      Real-time Systems
-    Data Science
-      Python Processing
-      Data Visualization
-      Analytics
-    System Integration
-      Hardware-Software Bridge
-      Cloud Integration
-```
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
