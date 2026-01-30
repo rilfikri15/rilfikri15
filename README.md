@@ -44,8 +44,8 @@ motto: "Code, Create, and never stop learning"
 #### 📍 Currently
 
 - 📚 Learning **Advanced Laravel** & **Python Programming**
+- 💡 Learning **Cloud Integration** for embedded systems
 - 🤝 Open to **IoT collaboration** projects
-- 💡 Exploring **Cloud Integration** for embedded systems
 
 <br>
 
