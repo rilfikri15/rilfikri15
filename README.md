@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm **Beril Fikri**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learn+to+become+a+Full+Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learn+to+be+a+Full+Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <p>
@@ -97,16 +97,23 @@ motto: "Code, Create, and never stop learning"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rilfikri15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilfikri15&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rilfikri15&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rilfikri15&theme=tokyonight&utcOffset=7"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rilfikri15&theme=tokyonight" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rilfikri15&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rilfikri15&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rilfikri15&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rilfikri15&theme=tokyonight"/>
+
 </div>
 
 ---
