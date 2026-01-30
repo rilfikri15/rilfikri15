@@ -97,13 +97,6 @@ motto: "Code, Create, and never stop learning"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rilfikri15&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rilfikri15&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
-
-</div>
-
-<div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rilfikri15&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rilfikri15&theme=tokyonight&utcOffset=7"/>
