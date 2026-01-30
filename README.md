@@ -98,13 +98,6 @@ motto: "Code, Create, and never stop learning"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rilfikri15&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rilfikri15&theme=tokyonight&utcOffset=7"/>
-
-</div>
-
-<div align="center">
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rilfikri15&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rilfikri15&theme=tokyonight"/>
 
