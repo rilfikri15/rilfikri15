@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm **Beril Fikri**
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learn+to+be+a+Full+Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
@@ -98,8 +96,8 @@ motto: "Code, Create, and never stop learning"
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rilfikri15&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rilfikri15&theme=tokyonight"/>
+<img width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rilfikri15&theme=tokyonight"/>
+<img width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rilfikri15&theme=tokyonight"/>
 
 </div>
 
