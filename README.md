@@ -51,7 +51,7 @@ motto: "Code, Create, and never stop learning"
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages
 
