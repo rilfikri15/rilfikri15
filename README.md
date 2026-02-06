@@ -1,28 +1,3 @@
-<div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learn+to+be+a+Full+Stack+Developer;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Integration;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rilfikri15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rilfikri15?label=Followers&style=social" alt="Followers" />
-</p>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  💻 Computer Engineering Student                             ║
-║  ⚙️ Passionate about IoT & System Integration                ║
-║  🚀 Building the bridge between software and hardware        ║
-╚══════════════════════════════════════════════════════════════ ╝
-```
-
-</div>
-
----
-
-## 🧭 About Me
-
 ### 👨‍💻 Beril Fikri
 
 ```yaml
@@ -105,14 +80,6 @@ motto: "Code, Create, and never stop learning"
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rilfikri15&theme=tokyonight"/>
 
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rilfikri15/rilfikri15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
